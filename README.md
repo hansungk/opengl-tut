@@ -1,6 +1,6 @@
 opengl-tut
-=======================
+==========
 
-	OpenGL tutorials and tests.
+OpenGL tutorials and tests.
 
-	Each folder contains independent OpenGL projects.
+Each folder contains independent OpenGL projects.
